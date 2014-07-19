@@ -3580,7 +3580,21 @@
         "No jQuery",
         "Bootstrap"
       ]
+    },
+    {
+      "name": "Dineserve",
+      "thumb": "dineserve/thumb.png",
+      "desc": "Dineserve is a global food marketplace.",
+      "url": "https://manage.dineserve.com",
+      "info": "http://dineserve.com",
+      "src": "https://github.com/dineserve",
+      "submitter": "zkirill",
+      "submissionDate": "2014-07-18",
+      "tags": [
+        "Production",
+        "CRUD",
+        "No jQuery"
+      ]
     }
-
   ]
 }
